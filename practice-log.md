@@ -23,6 +23,7 @@
 | 2026-10-14 | DI | 10 | 20 | 例：流利 4/5 | 例：折线图卡顿 2 次 | 例：先背熟趋势动词 |
 | 2026-10-14 | DI 流程图 Food Supply Chain | 1 | | 待填（自己录音后填） | | 参考答案见 DI/流程图/01-food-supply-chain.md |
 | 2026-10-14 | DI 折线图 Taiwan Bicycle | 1 | | 待填（自己录音后填） | | 参考答案见 DI/折线图/01-taiwan-bicycle.md |
+| 2026-10-18 | DI 柱状图 #1254 Overseas Visitors | 1 | | 待填（自己录音后填） | | 参考答案见 DI/柱状图/01-overseas-visitors.md |
 | | WE | 1 | 20 | | | |
 
 ## 错题 / 难题本

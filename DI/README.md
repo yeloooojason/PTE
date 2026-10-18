@@ -77,7 +77,7 @@
 
 | 文件夹 | 已练 |
 |---|---|
-| [柱状图](柱状图/) | 0 |
+| [柱状图](柱状图/) | 1：[Overseas Visitors](柱状图/01-overseas-visitors.md) |
 | [折线图](折线图/) | 1：[Taiwan Bicycle](折线图/01-taiwan-bicycle.md) |
 | [饼图](饼图/) | 0 |
 | [表格](表格/) | 0 |
