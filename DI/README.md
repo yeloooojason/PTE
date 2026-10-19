@@ -83,5 +83,5 @@
 | [表格](表格/) | 0 |
 | [流程图](流程图/) | 1：[Food Supply Chain](流程图/01-food-supply-chain.md) |
 | [地图](地图/) | 0 |
-| [照片](照片/) | 0 |
+| [照片](照片/) | 1：[Technology Products](照片/01-technology-products.md) |
 | [组合图](组合图/) | 0 |
