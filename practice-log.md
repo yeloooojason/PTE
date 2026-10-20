@@ -24,7 +24,7 @@
 | 2026-10-14 | DI 流程图 Food Supply Chain | 1 | | 待填（自己录音后填） | | 参考答案见 DI/流程图/01-food-supply-chain.md |
 | 2026-10-14 | DI 折线图 Taiwan Bicycle | 1 | | 待填（自己录音后填） | | 参考答案见 DI/折线图/01-taiwan-bicycle.md |
 | 2026-10-18 | DI 柱状图 #1254 Overseas Visitors | 1 | | 待填（自己录音后填） | | 参考答案见 DI/柱状图/01-overseas-visitors.md |
-| | WE | 1 | 20 | | | |
+| 2026-10-20 | WE Communication Change（利弊） | 1 | 20 | 待填（自己写完后填） | | 参考范文见 WE/01-communication-change.md |
 
 ## 错题 / 难题本
 
