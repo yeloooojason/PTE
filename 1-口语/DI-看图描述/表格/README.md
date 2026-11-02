@@ -1,0 +1,23 @@
+# 表格 Table 模板
+
+← 返回 [DI 总览](../README.md)
+
+## 基本模板
+
+1. This table compares **[行的对象]** in terms of **[列名1]**, **[列名2]** and **[列名3]**.
+2. **[A]** ranks first in **[列名1]**, with **[数字]**.
+3. **[B]** has the highest **[列名2]**, at **[数字]**.
+4. However, **[C]** has the lowest figures in most categories, such as **[数字]** in **[列名]**.
+5. Overall, **[A]** performs best overall, while **[C]** performs the worst.
+
+## 要点
+
+表格数字多，只挑每列最大、最小，不要逐格念。
+
+## 练过的题
+
+| # | 题目 | 日期 | 文件 |
+|---|---|---|---|
+| | 还没有 | | |
+
+**加新题：** 把 [新题模板](../../../_模板/新题模板.md) 复制到这个文件夹，按顺序编号命名（如 `02-关键词.md`），图片放同一个文件夹，然后在上面表格加一行。
