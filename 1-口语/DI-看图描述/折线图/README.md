@@ -2,7 +2,7 @@
 
 ← 返回 [DI 总览](../README.md)
 
-**模板（4 步）**
+## 基本模板（4 步）
 
 1. **标题 + 横纵轴：** This line graph shows **[标题]**. The vertical axis shows **[纵轴内容+单位]**, and the horizontal axis shows **[横轴内容，如 the years from 1990 to 2020]**.
 2. **最值：** The highest point is **[哪条线]**, at about **[数字]** in **[年]**, while the lowest is **[数字]** in **[年]**.
