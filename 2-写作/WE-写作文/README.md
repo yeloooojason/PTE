@@ -71,6 +71,7 @@
 
 | # | 题目 | 日期 | 文件 |
 |---|---|---|---|
-| | 还没有 | | |
+| 01 | Communication Change（利弊） | 2026-10-20 | [01-communication-change.md](01-communication-change.md) |
+| 02 | Shopping Malls（to what extent） | 2026-10-20 | [02-shopping-malls.md](02-shopping-malls.md) |
 
-**加新题：** 把 [新题模板](../../_模板/新题模板.md) 复制到这个文件夹，按顺序编号命名（如 `01-关键词.md`），然后在上面表格加一行。
+**加新题：** 把 [新题模板](../../_模板/新题模板.md) 复制到这个文件夹，按顺序编号命名（如 `03-关键词.md`），然后在上面表格加一行。

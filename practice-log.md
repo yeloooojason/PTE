@@ -24,7 +24,8 @@
 | 2026-10-14 | DI 流程图 Food Supply Chain | 1 | | 待填（自己录音后填） | | 参考答案见 1-口语/DI-看图描述/流程图/01-food-supply-chain.md |
 | 2026-10-14 | DI 折线图 Taiwan Bicycle | 1 | | 待填（自己录音后填） | | 参考答案见 1-口语/DI-看图描述/折线图/01-taiwan-bicycle.md |
 | 2026-10-18 | DI 柱状图 #1254 Overseas Visitors | 1 | | 待填（自己录音后填） | | 参考答案见 1-口语/DI-看图描述/柱状图/01-overseas-visitors.md |
-| | WE | 1 | 20 | | | |
+| 2026-10-20 | WE Communication Change（利弊） | 1 | 20 | 待填（自己写完后填） | | 参考范文见 2-写作/WE-写作文/01-communication-change.md |
+| 2026-10-20 | WE Shopping Malls（to what extent） | 1 | | 自己写了主体 1 | 重复用词（more…more, choice…choose）；difference/different 混用；例子和主题句没对上 | 改稿和范文见 2-写作/WE-写作文/02-shopping-malls.md |
 
 ## 错题 / 难题本
 
