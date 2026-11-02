@@ -4,15 +4,15 @@
 
 ## 基本模板
 
-1. This bar chart compares **[对象]** in terms of **[数值项]** **[in 年份/among 国家]**.
-2. **[A]** has the highest **[数值项]**, at about **[数字+单位]**.
-3. **[B]** comes second, with around **[数字]**.
-4. In contrast, **[C]** has the lowest, at only **[数字]**.
-5. Overall, **[A]** is far ahead of the others, while **[C]** lags behind.
+1. This bar chart shows **[题目]**.
+2. The highest is **[A]**, at about **[数字]**.
+3. The lowest is **[B]**, at about **[数字]**.
+4. **[C]** is about **[数字]**, which is higher than **[D]**.
+5. Overall, **[A]** is much higher than **[B]**.
 
 ## 要点
 
-先看纵轴单位；有多组颜色时补一句 "In most categories, [颜色/组] is higher than [另一组]."
+题目直接照抄图上的标题；数字带上单位（如 percent / million）。每句都要有图上的真实名称和数字，模板只是骨架，内容要从图里来。
 
 ## 练过的题
 

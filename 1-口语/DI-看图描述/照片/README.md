@@ -2,7 +2,19 @@
 
 ← 返回 [DI 总览](../README.md)
 
-## 基本模板
+先看图上有没有数字：**有数字用模板 A，没数字用模板 B**。
+
+## 模板 A：有数字的示意图（图标 + 数字的信息图）
+
+1. This picture shows **[题目]**.
+2. The highest is **[A]**, at about **[数字]**.
+3. The lowest is **[B]**, at about **[数字]**.
+4. **[C]** is about **[数字]**, which is higher than **[B]**.
+5. Overall, **[A]** is much higher than **[B]**.
+
+**要点：** 和柱状图一样，只是开头说 picture。题目直接照抄图上的标题；数字带上单位（如 hours per day）。几个图标连到同一个数字框时，说成 **[A] and [B] together**。
+
+## 模板 B：没有数字的照片
 
 1. This picture shows **[人/物]** **[在做什么]** in **[地点]**.
 2. In the foreground, there is / are **[前景]**.
@@ -10,14 +22,12 @@
 4. **[人物]** seems to be **[动作/情绪]**, and the colours are mainly **[颜色]**.
 5. Overall, the picture gives an impression of **[场景总结：a busy city / a peaceful village]**.
 
-## 要点
-
-没有数据，就按"前景 → 背景 → 细节 → 感受"的顺序说；说看得见的东西，不要编。
+**要点：** 没有数据，就按"前景 → 背景 → 细节 → 感受"的顺序说；说看得见的东西，不要编。
 
 ## 练过的题
 
 | # | 题目 | 日期 | 文件 |
 |---|---|---|---|
-| | 还没有 | | |
+| 01 | Time Spent on Technology Products（模板 A） | 2026-10-19 | [01-technology-products.md](01-technology-products.md) |
 
 **加新题：** 把 [新题模板](../../../_模板/新题模板.md) 复制到这个文件夹，按顺序编号命名（如 `02-关键词.md`），图片放同一个文件夹，然后在上面表格加一行。
